@@ -5,20 +5,20 @@ The D'Mart Sales Analysis dashboard provides a comprehensive overview of sales p
 
 **Key Areas Covered:**
 
-Brand Performance:
+1.Brand Performance:
 
 Highlights top and bottom-performing brands to understand consumer preferences and market penetration.
-Category Contributions:
+2.Category Contributions:
 
 Provides insights into the sales quantities across different product categories, showcasing dominant sectors such as groceries and packaged foods.
 
-Geographical Insights:
+3.Geographical Insights:
 
 Analyzes sales distribution across cities and states, identifying hotspots of high consumer activity.
 
-Price Analysis:
+4.Price Analysis:
 
 Compares market and selling prices to reveal pricing strategies and their effectiveness in driving sales.
-Sub-Category Insights:
+5.Sub-Category Insights:
 
 Breaks down contributions from sub-categories like beverages and snacks, offering granular visibility into consumer buying habits.
